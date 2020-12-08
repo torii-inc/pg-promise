@@ -41,6 +41,7 @@
   },
   "dependencies": {
     "assert-options": "0.6.2",
+    "path-value": "0.2.1",
     "pg": "8.5.1",
     "pg-minify": "1.6.1",
     "spex": "3.0.2"
